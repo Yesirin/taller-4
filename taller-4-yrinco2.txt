@@ -1,0 +1,10 @@
+Descripción del problema. 
+Fecha de entrega 8 de agosto.
+ 
+Se debe realizar el punto numero dos del taller de diagrama de flujo y pseudocodigo descrito a continuacion: 
+.Desarrolle un algoritmo que realice la sumatoria de los números enteros comprendidos entre el 1 y el 10, es decir, 1 + 2 + 3 + …. + 10.
+Se debe realizar el mismo ejercicio con FOR y con WHILE
+Se debe entregar un repositorio con el siguiente nombre: java-basico-dos-nombreusuario
+
+https://github.com/Yesirin/taller-4-yrinco2.git
+https://github.com/Yesirin/taller-4-yrinco2.git
